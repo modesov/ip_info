@@ -1,0 +1,11 @@
+{
+    "name": "modes/ip-info",
+    "description": "ip information",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Modes\\IpInfo\\": "src/"
+        }
+    },
+    "require": {}
+}
